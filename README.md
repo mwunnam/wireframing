@@ -22,5 +22,9 @@ This is mostly used in the early stages to get basic ideas down quickly with les
 
 * High-fidelity Wireframe:  A wirefram with more details which is most likely close to the final design. It indicates the final design with colours, fonts, images to make it look more like the finished product. This is mostly done at the end where all stakeholders are in agreement with everything.
 
-## The Type of Wireframe Show
+## The Type of Wireframe Shown
 This is a high-fidelity wireframing because it goes beyoud giving the structural layout of the website. Font sizes and types, images, and colours are taken into consideration. This shows how the final product should look.
+
+## Tools For Wireframing
+There are numerous tools for wireframing, e.g., Draw.io, Figma, Balsamiq and many more. While all these are effective, Figma stands out in my opinion. Figma offers a free version that is quite powerful, you can start with templates if needed. 
+Sharing and collaborating is very simple as it is a browser-based application. It is also convenient for both low-fidelity and high-fidelity wireframing. To get the full experience give it a try. 
